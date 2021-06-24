@@ -10,6 +10,7 @@ public class EmployeeManagementApplication {
 
 	public static void main(final String[] args) {
 		SpringApplication.run(EmployeeManagementApplication.class, args);
+		System.out.println("Main class");
 	}
 
 }
